@@ -1,2 +1,2 @@
-Spotify Clone. <br/>
+Spotify Clone With HTML & CSS. <br/>
 Author - Akhi Azim Papri.
